@@ -145,5 +145,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or support, please contact:
 
-- **Email**: support@ecommerce.com
-- **Website**: [www.ecommerce.com](http://www.ecommerce.com)
+- **Email**: amzakaria94@gmail.com
+- **Website**: UnderMaintenance 
